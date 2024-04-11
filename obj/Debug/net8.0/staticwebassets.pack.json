@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\images\\nguyen.jpg",
+      "PackagePath": "staticwebassets\\images\\nguyen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\images\\viet.png",
+      "PackagePath": "staticwebassets\\images\\viet.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OrderRestaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OrderRestaurant.props",
+      "PackagePath": "build\\OrderRestaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OrderRestaurant.props",
+      "PackagePath": "buildMultiTargeting\\OrderRestaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OrderRestaurant.props",
+      "PackagePath": "buildTransitive\\OrderRestaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

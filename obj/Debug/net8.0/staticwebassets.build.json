@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "o97TWgG7/r+JCxwRAbDS2MOshZhZ1ug9JcyeNUe063M=",
+  "Source": "OrderRestaurant",
+  "BasePath": "_content/OrderRestaurant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrderRestaurant\\wwwroot",
+      "Source": "OrderRestaurant",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/OrderRestaurant",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\images\\nguyen.jpg",
+      "SourceId": "OrderRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/OrderRestaurant",
+      "RelativePath": "images/nguyen.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nguyen.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\images\\viet.png",
+      "SourceId": "OrderRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\One day a little\\Project\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/OrderRestaurant",
+      "RelativePath": "images/viet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\viet.png"
+    }
+  ]
+}
